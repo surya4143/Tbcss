@@ -1,0 +1,31 @@
+tr{
+    font-family: 'Times New Roman', Times, serif;
+}
+#rollno{
+    font-weight: 600;
+}
+.name{
+    color: red;
+}
+
+*{
+    background-color: violet;
+}
+
+table,th,td{
+    border-style: solid;
+    border-collapse: collapse;
+    background-color: yellow;
+}
+.color{
+    color: blue;
+}
+.title{
+    color: blue;
+}
+ul,li{
+    background-color: yellow;
+}
+.details{
+    color: white;
+}
